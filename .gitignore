@@ -163,3 +163,4 @@ cython_debug/
 input_videos/08fd33_4.mp4
 *.mp4
 *.avi
+*.jpg
